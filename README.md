@@ -18,7 +18,7 @@ like to run app.
 mvn package
 
 ### Usage
-java -jar  target/hdfsdu-0.0.1-SNAPSHOT-jar-with-dependencies.jar <hdfs username> <hdfs directory>
+java -jar  target/hdfsdu-0.0.1-SNAPSHOT-jar-with-dependencies.jar \<hdfs username\> \<hdfs directory\>
 
 ex:
 java -jar  target/hdfsdu-0.0.1-SNAPSHOT-jar-with-dependencies.jar hdfs /tmp
