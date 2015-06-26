@@ -23,6 +23,7 @@ java -jar  target/hdfsdu-0.0.1-SNAPSHOT-jar-with-dependencies.jar <hdfs username
 ex:
 java -jar  target/hdfsdu-0.0.1-SNAPSHOT-jar-with-dependencies.jar hdfs /tmp
 
+![] (https://raw.githubusercontent.com/lserinol/simple-hdfs-du/master/sample/Sample.png)
 
 Note: tested on Hadoop 1.X
 
